@@ -1,6 +1,6 @@
 # Ender 2 Base Upgrade
 
-[<img alt="Ender 2 Base Upgrade" width="100%" src="Images/Cover_Img.jpg" />]
+<img alt="Ender 2 Base Upgrade" width="100%" src="Images/Cover_Img.jpg" />
 
 This repository is for my upgrades to the original Ender 2. This upgrade can use the existing main board or the BigTreeTech SKR Mini E3 v2 running either Marlin or Klipper. 
 
