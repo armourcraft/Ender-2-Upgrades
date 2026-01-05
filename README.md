@@ -49,7 +49,7 @@ Print Settings are as follows:
 ### Parts:
 | Item | Qty | Description | Source |
 | :---- | :---: | :----------- | :------ |
-| V-Slot 2060 Aluminum Extrusion 250mm | 2 | need ±1mm for clearance | [Amazon](https://www.amazon.com/dp/B0D1KCGV5D) - can with +1mm for clearance |
+| V-Slot 2060 Extrusion 250mm | 2 | need ±1mm for clearance | [Amazon](https://www.amazon.com/dp/B0D1KCGV5D) - came +1 oversized |
 | ABS Sheet 12"x12"x3/8" | 1 | route out new base plate | [Amazon](https://www.amazon.com/dp/B0CLY9Y116) |
 | Cooling Fan Y Splitter | 1 | mod the psu for two fans | [Amazon](https://www.amazon.com/dp/B0D4MFT6H9) |
 | LC6015MS14 Fan 6015 14V | 1 | second fan for back grill | [Amazon](https://www.amazon.com/dp/B0DFH5X8SG) |
