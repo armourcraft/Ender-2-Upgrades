@@ -44,7 +44,7 @@ Print Settings are as follows:
 | M5x10 SHCS | 2 | psu mounts |
 | M5x14 BHCS | 6 | base plate extrusions |
 | M5x16 SHCS | 12 | grills |
-| M5 T-Nuts | 6 | base plate extrusions |
+| M5 T-Nuts | 8 | base plate extrusions |
 
 ### Parts:
 | Item | Qty | Description | Source |
