@@ -28,7 +28,7 @@ Print Settings are as follows:
 | Fastener | Qty | Where Used |
 | :-------- | :---: | :---------- |
 | M3x6 BHCS  | 8 | grill covers |
-| M3x8 BHCS | 5 | grill fan, power supply fan extension |
+| M3x8 BHCS | 5 | grill fan, psu fan extension |
 | M3x8 FHCS | 2 | power outlet |
 | M3x10 BHCS | 3 | main board cover posts |
 | M3x12 BHCS | 2 | main board fan mount |
@@ -41,7 +41,7 @@ Print Settings are as follows:
 | M4x12 BHCS | 4 | bottom panel feet |
 | M4 T-Nuts | 4 | bottom panel feet |
 |   |   |   |
-| M5x10 SHCS | 2 | power supply mounts |
+| M5x10 SHCS | 2 | psu mounts |
 | M5x14 BHCS | 6 | base plate extrusions |
 | M5x16 SHCS | 12 | grills |
 | M5 T-Nuts | 6 | base plate extrusions |
@@ -50,7 +50,7 @@ Print Settings are as follows:
 | Item | Qty | Description | Source |
 | :---- | :---: | :----------- | :------ |
 | ABS Sheet 12"x12"x3/8" | 1 | route out new base plate | [Amazon](https://www.amazon.com/dp/B0CLY9Y116) |
-| Cooling Fan Y Splitter | 1 | mod the power supply for two fans | [Amazon](https://www.amazon.com/dp/B0D4MFT6H9) |
+| Cooling Fan Y Splitter | 1 | mod the psu for two fans | [Amazon](https://www.amazon.com/dp/B0D4MFT6H9) |
 | LC6015MS14 Fan 6015 14V | 1 | second fan for back grill | [Amazon](https://www.amazon.com/dp/B0DFH5X8SG) |
 | Power Outlet  | 1 | back grill outlet | [Amazon](https://www.amazon.com/dp/B07RRY5MYZ) |
 | Rubber Feet 18x15x11mm | 4 | bottom panel | [Amazon](https://www.amazon.com/gp/product/B07LCM3SBW) |
