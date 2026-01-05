@@ -55,6 +55,7 @@ Print Settings are as follows:
 | LC6015MS14 Fan 6015 14V | 1 | second fan for back grill | [Amazon](https://www.amazon.com/dp/B0DFH5X8SG) |
 | Power Outlet  | 1 | back grill outlet | [Amazon](https://www.amazon.com/dp/B07RRY5MYZ) |
 | Rubber Feet 18x15x11mm | 4 | bottom panel | [Amazon](https://www.amazon.com/gp/product/B07LCM3SBW) |
+| Spring Sheet Build Plate | 1 | better than original | [Amazon](https://www.amazon.com/dp/B0CJ92Z24N) |
 | Metal Extruder | 1 | replace the plastic extruder | [Amazon](https://www.amazon.com/Creality-Official-Extruder-3D-Aluminum/dp/B09LQKN5WG) |
 | Part Cooling Fan | 1 | will need to tap the hotend cover for M2 | [Amazon](https://www.amazon.com/dp/B0C2VSJTYQ) |
 | Hotend Silicone Sock | 1 | optional: helps with keeping things clean | [Amazon](https://www.amazon.com/Printer-Hotend-Silicone-Heater-Creality/dp/B09VKZJKQ2) |
