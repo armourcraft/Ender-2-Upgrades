@@ -27,7 +27,7 @@ Print Settings are as follows:
 - Supports: All files designed to not require supports.
 
 ## BOM
-###Fasteners:
+#### Fasteners:
 | Fastener | Qty | Where Used |
 | :-------- | :---: | :---------- |
 | M3x6 BHCS  | 8 | grill covers |
@@ -49,7 +49,7 @@ Print Settings are as follows:
 | M5x16 SHCS | 12 | grills |
 | M5 T-Nuts | 6 | base plate extrusions |
 
-###Parts:
+#### Parts:
 | Item | Qty | Description | Source |
 | :---- | :---: | :----------- | :------ |
 | ABS Sheet 12"x12"x3/8" | 1 | route out new base plate | [Amazon](https://www.amazon.com/dp/B0CLY9Y116) |
