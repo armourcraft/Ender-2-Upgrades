@@ -27,7 +27,7 @@ Print Settings are as follows:
 ### Fasteners:
 | Fastener | Qty | Where Used |
 | :-------- | :---: | :---------- |
-| M3x6 BHCS  | 8 | grill covers |
+| M3x6 BHCS  | 8 | grill covers, psu mounts, psu riser |
 | M3x8 BHCS | 5 | grill fan, psu fan extension |
 | M3x8 FHCS | 2 | power outlet |
 | M3x10 BHCS | 3 | main board cover posts |
